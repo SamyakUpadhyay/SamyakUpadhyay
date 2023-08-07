@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamyakUpadhyay
-- 👀 I’m interested in Data Science, Machine Learning, Automation and web designing as well as psychology, astronomy and creating random things.
-- 🌱 I’m currently learning Statistics , advanced python and trying to make a little game.
+- 👀 I’m interested in Data Science, Image processing, Machine Learning, Automation and web designing as well as psychology, astronomy and creating random things.
+- 🌱 I’m currently learning Statistics , advanced python and web developnment.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me samyakupadhyay9@gmail.com 
 
